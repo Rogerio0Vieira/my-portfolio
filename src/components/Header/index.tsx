@@ -7,7 +7,7 @@ export function Header (){
         <img src="" alt=""/>
         <nav>
           <a className={styles.active}>Home</a>
-          <a>Posts</a>
+          <a>Projetos</a>
         </nav>
       </div>
     </header>
