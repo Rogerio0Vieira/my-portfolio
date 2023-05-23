@@ -6,7 +6,7 @@ export function Header (){
       <div className={styles.headerContent}>
         <img src="" alt=""/>
         <nav>
-          <a className={styles.active}>Home</a>
+          <a className={styles.active}> Home </a>
           <a>Projetos</a>
         </nav>
       </div>
