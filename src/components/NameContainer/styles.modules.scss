@@ -1,0 +1,66 @@
+.box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.box .top-home-texts-wrapper {
+  border: 0px none;
+  height: 189px;
+  overflow-x: hidden;
+  position: relative;
+  width: 411px;
+}
+
+.box .top-home-texts {
+  height: 189px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 413px;
+}
+
+.box .rogerio-vieira {
+  color: #ffffff;
+  font-size: 52px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  width: 411px;
+}
+
+.box .group {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 162px;
+}
+
+.box .overlap-group {
+  background-color: #7b4ae21a;
+  border-radius: 16px;
+  height: 45px;
+  position: relative;
+  width: 160px;
+}
+
+.box .text-wrapper {
+  color: #7b4ae2;
+  font-size: 20px;
+  font-weight: 700;
+  height: 36px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 140px;
+}
+
